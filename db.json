@@ -1,0 +1,10 @@
+{
+    "tasks": [
+        {
+            "id": "1",
+            "text": "Become a developer",
+            "day": "18/08/2023",
+            "reminder": true
+        }
+    ]
+}
